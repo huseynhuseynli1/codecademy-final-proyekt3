@@ -1,0 +1,34 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	background-image: url("../images/background.jpg");
+	background-size: 100%;
+}
+ul,h1{
+	margin: 0;
+	padding: 0;
+}
+li{
+	list-style-type: none;
+	display: inline;
+
+}
+
+.header .row, .main .row{
+	margin-top: 20px;
+}
+.selected{
+	opacity: 0.5;
+	border-top: 2px solid brown;
+	border-bottom:2px solid brown; 
+}
+
+
+img{
+	
+}
+
+.main .row{
+
+}
